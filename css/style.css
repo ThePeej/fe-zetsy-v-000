@@ -22,12 +22,15 @@ body {
 
 /* Write all remaining styles here */
 
-h1 a{
+h1 {
 	font-family: 'Baskerville', serif;
 	font-size: 5em;
 	color: rgb(152,173,166);
 	margin-bottom: 5px;
-	text-decoration: none;
+}
+
+h1 a {
+		text-decoration: none;
 }
 
 
