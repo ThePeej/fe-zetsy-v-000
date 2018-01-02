@@ -22,13 +22,16 @@ body {
 
 /* Write all remaining styles here */
 
-h1, h2 {
+h1 {
+	font-family: 'Baskerville', serif;
 	color: rgb(111,127,122);
 }
 
-h1 {
-	font-family: 'Baskerville', serif;
+h2 {
+	font-size: 2em;
+	color: rgb(111,127,122);
 }
+
 
 img.necklace {
 	border: 5px rgb(152,173,166) solid;
