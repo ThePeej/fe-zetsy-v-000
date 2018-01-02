@@ -22,3 +22,7 @@ body {
 h1, h2 {
 	color: rgb(111,127,122);
 }
+
+img.necklace {
+	border: 5px grey solid;
+}
