@@ -29,7 +29,7 @@ img.necklace {
 
 
 #press img {
-	borer: 5px #ccc solid;
+	border: 5px #ccc solid;
 }
 
 #press img:hover {
