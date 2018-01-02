@@ -32,6 +32,10 @@ h2 {
 	color: rgb(111,127,122);
 }
 
+p {
+	color: #555;
+}
+
 
 img.necklace {
 	border: 5px rgb(152,173,166) solid;
