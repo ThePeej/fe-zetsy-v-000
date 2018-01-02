@@ -23,6 +23,10 @@ h1, h2 {
 	color: rgb(111,127,122);
 }
 
+h1 {
+	font-family: 'Baskerville', serif;
+}
+
 img.necklace {
 	border: 5px rgb(152,173,166) solid;
 }
