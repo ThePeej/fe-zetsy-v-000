@@ -29,6 +29,10 @@ h1 {
 	margin-bottom: 5px;
 }
 
+h1 a:hover {
+	color: rgb(111,127,122);
+}
+
 h2 {
 	font-size: 2em;
 	color: rgb(111,127,122);
